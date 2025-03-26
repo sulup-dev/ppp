@@ -1,0 +1,1 @@
+const getUser = localStorage.getItem("username")
